@@ -1,4 +1,5 @@
-- Hello Github Community.
+Hello Github Community.
+
 - I am Kandarp Joshi
 - I am a Computer Science Graduate, currently studying AI at Durham College.
 - This project is part of my curriculum.
