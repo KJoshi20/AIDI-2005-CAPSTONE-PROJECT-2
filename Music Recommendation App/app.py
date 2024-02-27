@@ -41,5 +41,5 @@ def search():
 
 
     print(default_songs)
-    return render_template('index.html', default_songs=default_songs)
+    return render_template('index.html', default_songs=default_songs, search=search)
 
