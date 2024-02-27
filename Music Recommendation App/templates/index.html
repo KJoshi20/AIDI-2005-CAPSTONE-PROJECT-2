@@ -19,7 +19,17 @@
                     Logo
                 </div>
                 <div class="col-7">
-                    Search
+                    <div class="row">
+                        <div class="col-2">
+                            Search
+                        </div>
+                        <div class="col-10">
+                            <form action="/search">
+                                <input type="text" id="search" name="search">
+                                <input type="submit" value="Submit">
+                            </form>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="row">
@@ -59,7 +69,7 @@
                         <div class="col-2">
                             <img
                             src="{{album['thumbnails'][album['thumbnails']|length-1]['url']}}"
-                            style="width:100%;"
+                            style="width:90%; border-radius: 10%;"
                             alt=""
                           />
                         </div>
