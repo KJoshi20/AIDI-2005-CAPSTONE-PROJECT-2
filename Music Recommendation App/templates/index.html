@@ -47,13 +47,13 @@
                         {%for album in default_songs%}
                         {% set videoId = album["videoId"] %}
                         <div class="col-6">
-                            {{album["title"]}}
+                            <a href="https://www.youtube.com/watch?v={{album["videoId"]}}"> {{album["title"]}} </a>
                         </div>
                         <div class="col-4">
                             {%for artist in album["artists"]%}
 
                             {{artist["name"]}}
-                            
+
                             {% endfor %}
                         </div>
                         <div class="col-2">
@@ -63,20 +63,6 @@
                             alt=""
                           />
                         </div>
-                        
-                        <!--
-                        <div class="recommended-song-row" onclick="playSong('{{ videoId|escape }}')">
-                          <div class="song">
-                            <img
-                            src="{{album['thumbnails'][album['thumbnails']|length-1]['url']}}"
-                            alt=""
-                          />
-                          <div class="song-info">
-                            <h1>{{album["title"]}}</h1>
-                          </div>
-                          </div>
-                        </div>
-                    -->
                         {% endfor %}
                     </div>
                 </div>
