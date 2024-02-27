@@ -32,12 +32,13 @@ def homepage():
 def search():
     ytmusic = YTMusic()
     search = request.args.get("search")
-    search_results = ytmusic.search(search, limit=50)
+    search_results = ytmusic.search(search, filter="songs", limit=10)
     default_songs = []
 
     for song in search_results:
-        if( song["category"]=="Songs"):
-            default_songs.append(song)
+        default_songs.append(song)
+
+
 
     print(default_songs)
     return render_template('index.html', default_songs=default_songs)
