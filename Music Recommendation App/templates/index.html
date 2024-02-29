@@ -53,9 +53,9 @@
                 </div>
                 <div class="col-8"  style="border-left:solid;"">
                     <!--Element-->
+                    {%for album in default_songs%}
+                    {% set videoId = album["videoId"] %}
                     <div class="row song-entry">
-                        {%for album in default_songs%}
-                        {% set videoId = album["videoId"] %}
                         <div class="col-6">
                             <a href="https://www.youtube.com/watch?v={{album["videoId"]}}"> {{album["title"]}} </a>
                         </div>
@@ -73,8 +73,8 @@
                             alt=""
                           />
                         </div>
-                        {% endfor %}
                     </div>
+                    {% endfor %}
                 </div>
             </div>
         </div>

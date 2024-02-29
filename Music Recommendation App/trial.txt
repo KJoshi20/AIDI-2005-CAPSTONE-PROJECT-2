@@ -1,0 +1,172 @@
+[
+    {
+        "title": "Elton John",
+        "browseId": "UCn9i4cdLe14CbsOycTbKMoA",
+        "subscribers": "4.36M",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/C60EGip4G8_TMHP5IW5dCrDP1UcW-Grf9H0UHQLzmh2qdqtjglwYLInc9-mLPSZVZN6Z-wt2WBtl0zdk=w226-h226-p-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/C60EGip4G8_TMHP5IW5dCrDP1UcW-Grf9H0UHQLzmh2qdqtjglwYLInc9-mLPSZVZN6Z-wt2WBtl0zdk=w544-h544-p-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ]
+    },
+    {
+        "title": "TOTO",
+        "browseId": "UCewH1MBbYlEZMWx3ZUNywyg",
+        "subscribers": "1.1M",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/QJflflstOojS4ibS3VW5ub7gp36q5jihSyW6oNIsfIbhE4wMIA_RHJ1Q8cOW3ZzRQ3NI2ZgwH8cTk84=w226-h226-p-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/QJflflstOojS4ibS3VW5ub7gp36q5jihSyW6oNIsfIbhE4wMIA_RHJ1Q8cOW3ZzRQ3NI2ZgwH8cTk84=w544-h544-p-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ]
+    },
+    {
+        "title": "Paul Young",
+        "browseId": "UCB3qJDg2Dtzw7_cTGKn8dqw",
+        "subscribers": "364K",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/wjb1MidT_D9d_trpdICGy7IWYuAB4TcHaQbjO5kOBidKtbJ8FiFraBdSlalKdvloG4tYudeovGNecQ=w226-h226-p-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/wjb1MidT_D9d_trpdICGy7IWYuAB4TcHaQbjO5kOBidKtbJ8FiFraBdSlalKdvloG4tYudeovGNecQ=w544-h544-p-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ]
+    },
+    {
+        "title": "Mike + The Mechanics",
+        "browseId": "UCak2_SOTrC61nzqli-cNThw",
+        "subscribers": "109K",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/-woYWwcnvvEuKpZW7x3y6zu7xIkxPu3PkkcnOjmxiM2tuE8MFCpLYjXBJcHBQnhdqdfs-w772LEoFAU=w226-h226-p-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/-woYWwcnvvEuKpZW7x3y6zu7xIkxPu3PkkcnOjmxiM2tuE8MFCpLYjXBJcHBQnhdqdfs-w772LEoFAU=w544-h544-p-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ]
+    },
+    {
+        "title": "Lionel Richie",
+        "browseId": "UCqBNd0XhYrv8OFlyr4fufdA",
+        "subscribers": "1.79M",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/t-BeHSd5miFGqJfbzjWrUbwDrQ6WWcKuCRH5Ymmb3XHuUejbkX9hO8K1eoObKsZp6o-cKC_Y8YgiLCo=w226-h226-p-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/t-BeHSd5miFGqJfbzjWrUbwDrQ6WWcKuCRH5Ymmb3XHuUejbkX9hO8K1eoObKsZp6o-cKC_Y8YgiLCo=w544-h544-p-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ]
+    },
+    {
+        "title": "Mr. Mister",
+        "browseId": "UCsd2mz2HxTWGiHkfqozmw8w",
+        "subscribers": "232K",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/PoW5PA4LCweHFskEHGx5qAFdjRqVVTbwBhKl-AiuU8ITs8Z4ILoMQiQIGxawDm4Ac_4go3G-bKKViW0=w226-h226-p-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/PoW5PA4LCweHFskEHGx5qAFdjRqVVTbwBhKl-AiuU8ITs8Z4ILoMQiQIGxawDm4Ac_4go3G-bKKViW0=w544-h544-p-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ]
+    },
+    {
+        "title": "Bryan Adams",
+        "browseId": "UCSoZk6OcvRneFfAZH3I3-gQ",
+        "subscribers": "5.88M",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/zJlXiAdrcQUmF8cmOa4Ghucf5SHSo7wfftzfTEDZp0L1oTZN95Mmg46_CQNCWPv7Va_dCamzbAYSoIU=w226-h226-p-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/zJlXiAdrcQUmF8cmOa4Ghucf5SHSo7wfftzfTEDZp0L1oTZN95Mmg46_CQNCWPv7Va_dCamzbAYSoIU=w544-h544-p-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ]
+    },
+    {
+        "title": "Starship",
+        "browseId": "UCx5EhC862RMB7_dOLBUCjAg",
+        "subscribers": "250K",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/swJiaIV2rTQVImfG-ApaiiwqGCK9n69YUHgeZEaMmFsBqtjWQ8MxG4aT3ckjqQDzbQsOr7Xnea4jT0o=w226-h226-p-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/swJiaIV2rTQVImfG-ApaiiwqGCK9n69YUHgeZEaMmFsBqtjWQ8MxG4aT3ckjqQDzbQsOr7Xnea4jT0o=w544-h544-p-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ]
+    },
+    {
+        "title": "Bruce Hornsby",
+        "browseId": "UCiwLXd-mXNArd1LLq-ri9Kw",
+        "subscribers": "168K",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/a-/ALV-UjWwDYi9FlRvJlcOoE9pd7soMTOszqcQvEIMmAwDb8zEUr4=w226-h226-l90-rj-dcrYSUj7EH",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/a-/ALV-UjWwDYi9FlRvJlcOoE9pd7soMTOszqcQvEIMmAwDb8zEUr4=w544-h544-l90-rj-dcrYSUj7EH",
+                "width": 544,
+                "height": 544
+            }
+        ]
+    },
+    {
+        "title": "Cutting Crew",
+        "browseId": "UC7CYIif6lYnbE9ouq9XNFRQ",
+        "subscribers": "224K",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/Q4FIQNKSUlpkAn8xyKGF98b7ZFJYBSlHFk_PTmSHhjHxeMDehkfC2Wx2oiVKyiiZB--ppOCWpik2ezfa=w226-h226-p-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/Q4FIQNKSUlpkAn8xyKGF98b7ZFJYBSlHFk_PTmSHhjHxeMDehkfC2Wx2oiVKyiiZB--ppOCWpik2ezfa=w544-h544-p-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ]
+    }
+]
